@@ -1,5 +1,6 @@
 # QRMaster (Python Desktop App)
 One day I needed to generate QR code for my personal webpage, so I used a commercial website to do it. It needs registration but it is free. Then couple of days later, QR code was expired and that website sent me ad emails. So annoying. 
+
 QRMaster is a **Python based desktop application**.
 It lets you:
 - Generate QR codes from arbitrary text and save them as PNG images.
@@ -27,6 +28,7 @@ This opens a window with two tabs:
 
 
 ![Scan tab](UI2.jpg)
+
 
 
 
