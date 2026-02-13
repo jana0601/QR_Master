@@ -34,11 +34,12 @@ This opens a window with two tabs:
 
 Place your UI screenshots (e.g. `UI1.jpg` and `UI2.jpg`) in the project root, then they will be referenced here:
 
-![Generate tab](UI1.jpg)
+![Generate tab](UI.jpg)
 
 
 ![Scan tab](UI2.jpg)
 
 > Note: Packaging this Python app as an Android APK is possible with tools like Kivy/Buildozer or BeeWare, but requires additional environment setup (typically on Linux/WSL). This project currently targets desktop use.
+
 
 
