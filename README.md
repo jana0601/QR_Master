@@ -36,7 +36,9 @@ Place your UI screenshots (e.g. `UI1.jpg` and `UI2.jpg`) in the project root, th
 
 ![Generate tab](UI1.jpg)
 
+
 ![Scan tab](UI2.jpg)
 
 > Note: Packaging this Python app as an Android APK is possible with tools like Kivy/Buildozer or BeeWare, but requires additional environment setup (typically on Linux/WSL). This project currently targets desktop use.
+
 
